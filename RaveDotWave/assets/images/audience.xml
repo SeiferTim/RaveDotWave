@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="Chainz.png"	x="289"	y="0"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="berry.png"	x="394"	y="835"	width="174"	height="267" frameX="-0" frameY="-0" frameWidth="174" frameHeight="267"/>
+	<SubTexture name="bowkitty_down.png"	x="880"	y="0"	width="174"	height="267" frameX="-0" frameY="-0" frameWidth="174" frameHeight="267"/>
+	<SubTexture name="garrus.png"	x="394"	y="562"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="kitty_back_ragdoll.png"	x="0"	y="0"	width="288"	height="288" frameX="-0" frameY="-0" frameWidth="288" frameHeight="288"/>
+	<SubTexture name="melon.png"	x="0"	y="580"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="meowth.png"	x="214"	y="289"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="mystic.png"	x="197"	y="580"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="norm.png"	x="486"	y="0"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="pika.png"	x="788"	y="819"	width="174"	height="267" frameX="-0" frameY="-0" frameWidth="174" frameHeight="267"/>
+	<SubTexture name="pikatwo.png"	x="0"	y="289"	width="213"	height="290" frameX="-0" frameY="-0" frameWidth="213" frameHeight="290"/>
+	<SubTexture name="purple.png"	x="805"	y="273"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="retrotig.png"	x="788"	y="546"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="robo.png"	x="591"	y="819"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="sketchy.png"	x="683"	y="0"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="vib.png"	x="608"	y="273"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="yellow.png"	x="591"	y="546"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+	<SubTexture name="zombie.png"	x="411"	y="273"	width="196"	height="272" frameX="-0" frameY="-0" frameWidth="196" frameHeight="272"/>
+</TextureAtlas>

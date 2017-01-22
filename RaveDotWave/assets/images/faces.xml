@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="Anna's kitty face.png"	x="0"	y="291"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="OHBOY_head.png"	x="194"	y="194"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="YellowD.png"	x="97"	y="0"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="angry_head.png"	x="0"	y="388"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="bleh_head.png"	x="0"	y="194"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="cool_head.png"	x="0"	y="97"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ehuehue_head.png"	x="0"	y="0"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="face.png"	x="97"	y="388"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="kermit_head.png"	x="291"	y="291"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="kissy_head.png"	x="291"	y="194"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="lennny_head.png"	x="291"	y="97"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="lol_head.png"	x="291"	y="0"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="megusta.png"	x="194"	y="388"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="morty_head.png"	x="194"	y="291"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="senpai_head.png"	x="194"	y="97"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="sleep_head.png"	x="194"	y="0"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="steven.png"	x="291"	y="388"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="teeth_head.png"	x="97"	y="291"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="uhhh_head.png"	x="97"	y="194"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="yawn_head.png"	x="97"	y="97"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+</TextureAtlas>

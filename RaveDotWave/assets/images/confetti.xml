@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="confetti_blue.png"	x="21"	y="42"	width="20"	height="20" frameX="-0" frameY="-0" frameWidth="20" frameHeight="20"/>
+	<SubTexture name="confetti_green.png"	x="0"	y="21"	width="20"	height="20" frameX="-0" frameY="-0" frameWidth="20" frameHeight="20"/>
+	<SubTexture name="confetti_pink.png"	x="0"	y="0"	width="20"	height="20" frameX="-0" frameY="-0" frameWidth="20" frameHeight="20"/>
+	<SubTexture name="confetti_purple.png"	x="0"	y="42"	width="20"	height="20" frameX="-0" frameY="-0" frameWidth="20" frameHeight="20"/>
+	<SubTexture name="confetti_teal.png"	x="21"	y="21"	width="20"	height="20" frameX="-0" frameY="-0" frameWidth="20" frameHeight="20"/>
+	<SubTexture name="confetti_yellow.png"	x="21"	y="0"	width="20"	height="20" frameX="-0" frameY="-0" frameWidth="20" frameHeight="20"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="ArrowBoxDown.png"	x="194"	y="291"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxDown_Glow.png"	x="97"	y="0"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxDown_Goal.png"	x="0"	y="291"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxLeft.png"	x="0"	y="194"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxLeft_Glow.png"	x="0"	y="97"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxLeft_Goal.png"	x="0"	y="0"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxRight.png"	x="97"	y="97"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxRight_Glow.png"	x="194"	y="194"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxRight_Goal.png"	x="194"	y="97"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxUp.png"	x="194"	y="0"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxUp_Glow.png"	x="97"	y="291"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowBoxUp_Goal.png"	x="97"	y="194"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+</TextureAtlas>

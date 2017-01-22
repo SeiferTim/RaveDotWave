@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="torso_BLUE.png"	x="0"	y="0"	width="96"	height="48" frameX="-0" frameY="-0" frameWidth="96" frameHeight="48"/>
+	<SubTexture name="torso_GREEN.png"	x="0"	y="49"	width="96"	height="48" frameX="-0" frameY="-0" frameWidth="96" frameHeight="48"/>
+	<SubTexture name="torso_ORANGE.png"	x="0"	y="98"	width="96"	height="48" frameX="-0" frameY="-0" frameWidth="96" frameHeight="48"/>
+	<SubTexture name="torso_YELLOW.png"	x="97"	y="0"	width="96"	height="48" frameX="-0" frameY="-0" frameWidth="96" frameHeight="48"/>
+</TextureAtlas>

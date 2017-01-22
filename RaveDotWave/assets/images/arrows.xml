@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="ArrowDown.png"	x="0"	y="0"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowGlow.png"	x="0"	y="194"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowLeft.png"	x="97"	y="97"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowRight.png"	x="97"	y="0"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="ArrowUp.png"	x="97"	y="194"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+	<SubTexture name="XX.png"	x="0"	y="97"	width="96"	height="96" frameX="-0" frameY="-0" frameWidth="96" frameHeight="96"/>
+</TextureAtlas>
